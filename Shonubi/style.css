@@ -1,0 +1,16 @@
+body
+
+{background-color: #EEB7E5;
+
+margin-left: 10%; margin-right: 10%; font-family: Helvetica;}
+
+  h1 { color: #000066 }
+  h2 { color: #01A7FA }
+  h3 {color: #A656E9 }
+
+
+          a { color: #003366; text-decoration: none; }
+
+          a:visited { color: #660066; text-decoration: none; }
+
+          a:hover { color: #003366; text-decoration: underline; }
