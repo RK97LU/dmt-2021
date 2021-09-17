@@ -1,0 +1,12 @@
+body { margin-left: 10%; margin-right: 10%;
+  background-color: white;
+}
+p{font-family: "Times New Roman"}
+h1{text-align: center; color: purple}
+h2{color: purple}
+/*new links*/
+a{color: #003366; text-decoration: none;}
+/*visited links*/
+a{color: #660066; text-decoration: none;}
+/* mouse-over */
+a:hover { color: purple; text-decoration: underline;}
